@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1741275836654,
+  "timestamp": 1744515857940,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,14 +11,22 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-BQU7CFYR.js",
-        "/chunk-NUF73V7A.js",
+        "/chunk-BRTJOF6C.js",
+        "/chunk-BZZM7AWE.js",
+        "/chunk-HA23SJ4C.js",
+        "/chunk-K2GQPGL3.js",
+        "/chunk-M3HQHCCS.js",
+        "/chunk-MSTJQYN7.js",
+        "/chunk-NNNAQFEF.js",
+        "/chunk-PZME46C2.js",
+        "/chunk-U3IJSZUP.js",
+        "/chunk-V27DWKHM.js",
         "/favicon.ico",
         "/index.html",
-        "/main-KUCQCO6I.js",
+        "/main-FSH6D6CE.js",
         "/manifest.webmanifest",
         "/polyfills-FFHMD2TL.js",
-        "/styles-7TMCPTZ7.css"
+        "/styles-JUBPFIIB.css"
       ],
       "patterns": []
     },
@@ -30,6 +38,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/fonts/msjh.ttf",
         "/icons/icon-128x128.png",
         "/icons/icon-144x144.png",
         "/icons/icon-152x152.png",
@@ -38,6 +47,15 @@
         "/icons/icon-512x512.png",
         "/icons/icon-72x72.png",
         "/icons/icon-96x96.png",
+        "/images/logo.png",
+        "/media/fa-brands-400-Q3XCMWHQ.woff2",
+        "/media/fa-brands-400-R2XQZCET.ttf",
+        "/media/fa-regular-400-QSNYFYRT.woff2",
+        "/media/fa-regular-400-XUOPSR7E.ttf",
+        "/media/fa-solid-900-5ZUYHGA7.woff2",
+        "/media/fa-solid-900-PJNKLK6W.ttf",
+        "/media/fa-v4compatibility-LFEHZI6Y.woff2",
+        "/media/fa-v4compatibility-YY67RJWG.ttf",
         "/media/msjh-TXFBKSDV.ttf"
       ],
       "patterns": []
@@ -45,9 +63,18 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/chunk-BQU7CFYR.js": "8281318f51d1a4d70968e187e41dcb5bca0f05e8",
-    "/chunk-NUF73V7A.js": "4615d9cc3a6335a35367fb51eaedcf8859759840",
+    "/chunk-BRTJOF6C.js": "19a77f68ffa801df23f1410100f66cfb3640ab2c",
+    "/chunk-BZZM7AWE.js": "51c2ea7e95b6a93448cbacc318f698fc412d0f8b",
+    "/chunk-HA23SJ4C.js": "f3a982f23a2c50cf4f35c3169d53fc3f6a862acb",
+    "/chunk-K2GQPGL3.js": "d94dbac247ad8b53cbcf47d7983343d4648fb6c1",
+    "/chunk-M3HQHCCS.js": "ec90c9d4244316860dbeb6018fa50427b33c69f8",
+    "/chunk-MSTJQYN7.js": "c0e0187f4b8ec2b17eb811a5633ea4ab84e4537e",
+    "/chunk-NNNAQFEF.js": "ab11ad02c1188efbf6e32931fd784ace446f50c9",
+    "/chunk-PZME46C2.js": "2ba6926331b965fd2e10dded58ee420352f349e6",
+    "/chunk-U3IJSZUP.js": "72161a5e772c5c0990fe3826e9fb5f6f0f2d1e4b",
+    "/chunk-V27DWKHM.js": "83ad9fb9d73d52919f031399c05d1ff5d4dc63c2",
     "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/fonts/msjh.ttf": "7c6085937a78d0e67854c1afde54708fe1246369",
     "/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
     "/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
     "/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
@@ -56,12 +83,21 @@
     "/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/index.html": "13359735885a29cbe3ec3237ba10b7643ca4b3cd",
-    "/main-KUCQCO6I.js": "c7ad208101d42b455a2f5505aff57705b1452390",
+    "/images/logo.png": "7468706d38a0419a2f630a556c2ffd0e53554ea7",
+    "/index.html": "09504fa536747e9418271f71e3477bcee822b595",
+    "/main-FSH6D6CE.js": "b671963081e5091486ec48b64b5ef83914761411",
     "/manifest.webmanifest": "81f1870a170a3c50317e4f6f782ada83f47e7fce",
+    "/media/fa-brands-400-Q3XCMWHQ.woff2": "31c30351084e2670bbe5c47bd342e11540a68717",
+    "/media/fa-brands-400-R2XQZCET.ttf": "da6f537cd597b76d264970f1c95e4beebc82fde9",
+    "/media/fa-regular-400-QSNYFYRT.woff2": "e9b6f5b842be227e2423733feb961dd6cb804066",
+    "/media/fa-regular-400-XUOPSR7E.ttf": "6e7f0651059eea9783ea8b28892b2c979c2f7f30",
+    "/media/fa-solid-900-5ZUYHGA7.woff2": "7cd8afd6501962fda35d66f0e4c3b8815ac471d8",
+    "/media/fa-solid-900-PJNKLK6W.ttf": "780a8ff16ebb681f85d5d30fac94ebe845a12b5e",
+    "/media/fa-v4compatibility-LFEHZI6Y.woff2": "4fd82f39237a3e52cb4e311d1961bbb47353a147",
+    "/media/fa-v4compatibility-YY67RJWG.ttf": "ad415f99aab4d9bf17e523f484a377f839ca8c3c",
     "/media/msjh-TXFBKSDV.ttf": "7c6085937a78d0e67854c1afde54708fe1246369",
     "/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
-    "/styles-7TMCPTZ7.css": "4c2c54dff806522573c0e2c530193faadd6821aa"
+    "/styles-JUBPFIIB.css": "6600aedbe02eb990f31c0c1810d36e847de6aa01"
   },
   "navigationUrls": [
     {
